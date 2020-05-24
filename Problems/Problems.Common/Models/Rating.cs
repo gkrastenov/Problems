@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Problems.Common.Models
 {
-    enum Rating
+    public enum Rating
     {
         Iron = 1,
         Bronze = 2,
