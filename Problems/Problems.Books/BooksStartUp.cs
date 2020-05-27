@@ -1,10 +1,10 @@
-﻿using System;
-
-namespace Problems.Books
+﻿namespace Problems.Books
 {
-     class BooksStartUp
+    using System;
+
+    internal class BooksStartUp
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }

@@ -1,9 +1,4 @@
-﻿using Problems.Common.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Problems.Common.Interfaces
+﻿namespace Problems.Common.Interfaces
 {
     public interface ICreating
     {

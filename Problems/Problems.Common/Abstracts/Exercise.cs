@@ -1,7 +1,7 @@
 ﻿namespace Architecture.Models
 {
     using Problems.Common.Models;
-    public abstract  class Exercise
+    public abstract class Exercise
     {
         public abstract Problem Problem { get; set; }
         /// <summary>

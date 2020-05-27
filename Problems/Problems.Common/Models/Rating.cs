@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Problems.Common.Models
+﻿namespace Problems.Common.Models
 {
     public enum Rating
     {
@@ -16,6 +12,5 @@ namespace Problems.Common.Models
         Supreme = 8,
         Elite = 9,
         Challenger = 10,
-
     }
 }

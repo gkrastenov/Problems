@@ -1,6 +1,6 @@
 ﻿namespace Architecture.Interfaces
 {
-    interface IFormating
+    internal interface IFormating
     {
         void SpacingFormat();
         void DashesFormat();
